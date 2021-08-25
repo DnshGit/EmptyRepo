@@ -1,0 +1,6 @@
+ls
+mkdir
+nmtui
+fdisk
+systemctl
+ps -aux
